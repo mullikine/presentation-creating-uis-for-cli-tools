@@ -1,1 +1,5 @@
 * Presentation: Creating standalone UI applications for CLI tools using emacs and docker
+
+Years ago =NickM=, the creator of tmux gave a talk at St Davids lecture theatre. I didn't go, but I was distraught when I found out I had missed the event.
+
+https://slideplayer.com/slide/13459497/
