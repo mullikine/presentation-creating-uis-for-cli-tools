@@ -3,3 +3,5 @@
 Years ago =NickM=, the creator of tmux gave a talk at St Davids lecture theatre. I didn't go, but I was distraught when I found out I had missed the event.
 
 https://slideplayer.com/slide/13459497/
+
+I find myself sitting in St David's lecture right now =18.09.20= designing a talk for CodeCraft.
