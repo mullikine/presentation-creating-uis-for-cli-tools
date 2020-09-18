@@ -37,8 +37,8 @@ wheel.
 
 | standalone / worse | emacs-based / better |
 |--------------------+----------------------|
-| tig                | magit                |
-| dive               | docker.el            |
+| =tig=              | =magit=              |
+| =dive=             | =docker.el=          |
 
 *** When this isn't the case, emacs can encapsulate the application
 
