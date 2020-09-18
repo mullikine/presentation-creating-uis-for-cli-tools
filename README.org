@@ -16,3 +16,10 @@ Specifically, I was working in the tooling infrastructure and designing/building
 I had a dream to manage deployments of between clouds and the docker swarm through a single-unified emacs application.
 
 So this is a project unfinished. I can't demonstrate deploying software to the ALVs through emacs but for didactic purposes I can substitute for something much simpler, tmux servers.
+
+** emacs is perhaps the best CLI *shell*
+For example when comparing applications built in emacs over ones 
+
+| standalone / worse | emacs-based / better |
+|--------------------+----------------------|
+| tig                | magit                |
