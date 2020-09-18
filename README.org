@@ -42,6 +42,9 @@ wheel.
 
 *** When this isn't the case, emacs can encapsulate the application
 
+* Shell wrapper
+$MYGIT/mullikine/presentation-creating-uis-for-cli-tools/shell-wrapper.org
+
 * Future applications
 ** TODO Make an emacs application for this
 https://github.blog/2020-09-17-github-cli-1-0-is-now-available/

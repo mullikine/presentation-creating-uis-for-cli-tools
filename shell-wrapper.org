@@ -1,4 +1,4 @@
-* Creating the shell script that executes commands
+* Creating the shell script that emacs queries
 ** Validate script parameters
 #+BEGIN_SRC bash -n :i bash :async :results verbatim code
   #!/bin/bash
