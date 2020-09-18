@@ -41,4 +41,3 @@ wheel.
 | dive               | docker.el            |
 
 *** When this isn't the case, emacs can encapsulate the application
-
