@@ -31,11 +31,14 @@ substitute for something much simpler, tmux
 servers.
 
 ** emacs is perhaps the best CLI *shell*
-For example when comparing applications built in emacs over ones 
+For example when comparing applications built
+in emacs over ones that try to reinvent the UI
+wheel.
 
 | standalone / worse | emacs-based / better |
 |--------------------+----------------------|
 | tig                | magit                |
+| dive               | docker.el            |
 
 *** When this isn't the case, emacs can encapsulate the application
 
