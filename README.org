@@ -47,3 +47,5 @@ wheel.
 https://github.blog/2020-09-17-github-cli-1-0-is-now-available/
 
 https://github.com/cli/cli
+
+<new-project "ghcli.el">
