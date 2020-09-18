@@ -13,7 +13,7 @@ I find myself sitting in St David's lecture right now =18.09.20= designing a tal
 
 It's about designing UIs for CLI tools with emacs and docker.
 
-Earlier in the year I was working for FMG (Fortescue Metals Group), working on self-driving cars in the Pilbra.
+Earlier in the year I was working for FMG (Fortescue Metals Group), working on self-driving cars in the Pilbara.
 
 Specifically, I was working in the tooling
 infrastructure and designing/building the
