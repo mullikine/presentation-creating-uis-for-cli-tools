@@ -23,3 +23,6 @@ For example when comparing applications built in emacs over ones
 | standalone / worse | emacs-based / better |
 |--------------------+----------------------|
 | tig                | magit                |
+
+
+*** When this isn't the case, emacs can encapsulate the application
