@@ -1,2 +1,2 @@
 * GitHub source code
-http://github.com/mullikine/tmux-manager.el
+http://github.com/mullikine/tmux-manager-el
